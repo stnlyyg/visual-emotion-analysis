@@ -1,0 +1,10 @@
+requests
+gradio
+transformers
+torch
+torchvision
+datasets
+matplotlib
+accelerate
+evaluate
+tensorboardX

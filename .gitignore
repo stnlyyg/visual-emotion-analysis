@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+data/
+hf_upload/
+log/
+eval_results/
